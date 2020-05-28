@@ -1,5 +1,5 @@
 ### Date created
-Include the date you created this project and README file.
+20 May,2020
 
 ### Project title
 Explore-US-Bikeshare-Data
@@ -9,7 +9,4 @@ Udacity DAND venture - Use Python to comprehend U.S. bikeshare information. Comp
 
 ### Files used
 bikeshare.py
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
