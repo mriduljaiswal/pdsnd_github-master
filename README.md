@@ -1,12 +1,18 @@
 ### Date created
-20 May,2020
+Created on 20 May,2020
 
 ### Project title
-Explore-US-Bikeshare-Data
+Udacity Programming for Data Science NanoDegree Explore-US-Bikeshare-Data
 
 ### Description
-Udacity DAND venture - Use Python to comprehend U.S. bikeshare information. Compute measurements and construct an intuitive domain where a client picks the information and channel for a dataset to investigate.
+In this project, i  will explore data related to bikeshare system for three major citieswhich are Chicago,Washington and New York.Using python i will write a code import the data and answer intresting questions about it by computing descriptive statistics .i will also write a script that takes input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-bikeshare.py
+Required software
+Python A text editor Sublime
+
+
+
+Author
+@mriduljaiswal
 
